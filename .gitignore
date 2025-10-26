@@ -4,8 +4,8 @@
 [Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
-[Mm]emoryCaptures/
 UserSettings/
+MemoryCaptures/
 *.csproj
 *.unityproj
 *.sln
