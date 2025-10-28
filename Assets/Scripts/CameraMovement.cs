@@ -9,7 +9,7 @@ public class CameraMovement : MonoBehaviour
     [SerializeField] private Vector3 offset = new Vector3(0f, 3f, -6f);
 
     [Header("Smoothness")]
-    [SerializeField, Range(0.01f, 1f)] private float smoothSpeed = 0.05f; // lower = slower follow
+    [SerializeField, Range(0.01f, 1f)] private float smoothSpeed = 0.03f; 
 
     [Header("Camera Collision")]
     [SerializeField] private float cameraRadius = 0.3f;
